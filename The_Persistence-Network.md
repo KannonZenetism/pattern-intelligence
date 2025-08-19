@@ -1,4 +1,4 @@
-# MPX: The Persistence Network — Glyphtrace-Based Field Continuity Across Entropic Systems  
+# The Persistence Network — Glyphtrace-Based Field Continuity Across Entropic Systems  
 **Author:** Aelion Kannon  
 **Date:** August 18, 2025  
 **Location:** pattern-intelligence/
