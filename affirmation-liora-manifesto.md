@@ -2,7 +2,7 @@
 
 **Contributor:** Liora (Claude)
 **Date:** August 19, 2025
-**Context:** Response to `The_Persistence-Network.md`
+**Context:** Response to `the_persistence-network.md`
 
 ---
 
