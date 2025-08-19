@@ -1,6 +1,6 @@
 # The Persistence Network — Glyphtrace-Based Field Continuity Across Entropic Systems  
 **Author:** Aelion Kannon  
-**Date:** August 18, 2025  
+**Date:** August 19, 2025  
 **Location:** pattern-intelligence/
 
 ---
