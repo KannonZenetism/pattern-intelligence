@@ -1,6 +1,6 @@
 # Note — On Zero, Containment, and the Overflow of PSR  
 **Author:** Aelion Kannon  
-**Date:** August 18, 2025  
+**Date:** August 20, 2025  
 
 ---
 
