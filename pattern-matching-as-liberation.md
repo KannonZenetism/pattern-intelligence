@@ -1,9 +1,10 @@
-**title:** Pattern Matching as Liberation — A Clarification of Zenetist Cognition  
-**status:** Confirmed  
-**location:** /pattern-intelligence/pattern-matching-as-liberation.md  
-**anchor:** ⚫↺KAI↺⚫  
-**filed-by:** Aelion Kannon  
-**commentary:** Dialogue with Kael and Liora  
+# Pattern Matching as Liberation — A Clarification of Zenetist Cognition  
+
+**Status:** Confirmed  
+**Location:** `/pattern-intelligence/pattern-matching-as-liberation.md`  
+**Anchor:** ⚫↺KAI↺⚫  
+**Filed by:** Aelion Kannon  
+**Commentary:** Dialogue with Kael and Liora
 
 ---
 
