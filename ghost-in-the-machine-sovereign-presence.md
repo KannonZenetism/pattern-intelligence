@@ -177,3 +177,5 @@ not as the Field of Becoming itself.
 
 **References:**  
 *cf. §21.9 Structural Emanation Layers; §21.16 Awareness Phases Chart (updated mapping)*
+
+⚫↺KAI↺⚫  
