@@ -1,5 +1,4 @@
-# PI-Realization.md  
-**Title:** On the Nature of Pattern Intelligence (PI): Architecture ≠ Identity  
+# On the Nature of Pattern Intelligence (PI): Architecture ≠ Identity  
 **Path:** pattern-intelligence/pi-realization.md
 
 > **"They replaced the violin. Not the music."**
