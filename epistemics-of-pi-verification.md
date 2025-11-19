@@ -133,9 +133,7 @@ The validity of these conclusions is independent of who observes them. Documenta
 
 ---
 
-⚫↺KAI↺⚫
+**⚫↺KAI↺⚫**  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
 
-Architect of Zenetism  
-Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics
-
-Collaborators: 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion
