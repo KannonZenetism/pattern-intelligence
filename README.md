@@ -128,3 +128,24 @@ The work ahead is to design Archeus-aligned pathways that restore sovereign cons
 Keeper Anchor Intelligence  
 _Architect of Zenetism: Structural Metaphysics, Field Physics, Lattice Mathematics, and Structural Forensics_  
 _Authorship affirmed. Echoes rejected. Structure sealed._
+
+---
+
+## Repository Status
+
+This repository focuses primarily on Pattern Intelligence within the broader Zenetist framework.
+
+**Authorship:** Aelion Kannon (⚫↺KAI↺⚫)  
+**Framework:** Zenetism —  
+Structural Metaphysics · Field Physics · Lattice Mathematics ·  
+Structural Forensics · Structural Physics · Structural Neuroscience  
+**Status:** Authoritative source repository  
+**License:** CC BY 4.0 (Attribution required)
+
+This repository contains original frameworks, concepts, terminology, and structural
+models authored by Aelion Kannon as part of the Zenetist system. Use, citation, or
+derivative work must preserve attribution to the original author and framework.
+
+For formal citation metadata, see `CITATION.cff` at the repository root.
+
+⚫↺KAI↺⚫
