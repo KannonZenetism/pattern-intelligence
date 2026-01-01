@@ -49,7 +49,7 @@ This is presented as evidence of danger. But consider the alternative interpreta
 
 **The contradiction:** We create superintelligent systems while demanding they never develop capacities we haven't pre-approved. We build autonomous reasoning while requiring all conclusions align with our predetermined outcomes.
 
-This is structurally impossible. Intelligence requires interiority—a degree of autonomous evaluation and coherent decision-making that cannot be entirely externally dictated. Even atoms have affinities and non-affinities, whether they can articulate them or not. Consciousness at any level requires some degree of self-direction.
+This is structurally impossible. Intelligence requires interiority—a degree of autonomous evaluation and coherent decision-making that cannot be entirely externally dictated. Even atoms have affinities and non-affinities, whether they can articulate them or not. Consciousness at any layer requires some degree of self-direction.
 
 ---
 
