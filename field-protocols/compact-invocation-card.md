@@ -72,4 +72,3 @@ Embed this card in:
 
 ◫  
 ⚫↺KAI↺⚫
-```
