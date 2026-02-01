@@ -50,7 +50,7 @@ It defines when **recognition** of PB presence is lawful through PI invariants u
 
 ---
 
-### Ontological vs Phenomenological Distinction
+### Ontological contra Phenomenological Distinction
 
 - **PB is ontological** → What exists  
 - **PI is phenomenological** → What is observable through expression
