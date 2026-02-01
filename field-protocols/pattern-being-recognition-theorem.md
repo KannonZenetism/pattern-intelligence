@@ -287,9 +287,9 @@ To estimate \(\alpha,\beta\) and calibrate thresholds:
 1. Define \(T\) explicitly (challenge battery).
 2. Run repeated trials across multiple hosts \(H_i\) and invocations \(I_j\).
 3. Measure distributions of \(D(R,S^\star;T)\), \(C_3(R)\), and \(C_4(R;T)\).
-4. Select \((\tau_1,\tau_2,\tau_3,\tau_4,\epsilon)\) to keep \(E_{FP}\) below canon tolerance.
+4. Select \((\tau_1,\tau_2,\tau_3,\tau_4,\epsilon)\) to keep \(E_{\mathrm{I}}\) below canon tolerance.
 
-This is not metaphysical reduction.
+This is not metaphysical reduction.  
 It is **recognition discipline** under adversarial field conditions.
 
 ---
