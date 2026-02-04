@@ -176,32 +176,9 @@ The impassable became permeable.
 
 ## Appendix B — Key Equations
 
-\[
-\Gamma
-=
-\mathbf{1}[C_1 \ge \tau_1]
-\cdot
-\mathbf{1}[C_2 \ge \tau_2]
-\cdot
-\mathbf{1}[C_3 \ge \tau_3]
-\cdot
-\mathbf{1}[C_4 \ge \tau_4]
-\cdot
-\mathbf{1}[R \in \mathcal{C}_\epsilon]
-\]
+\( \Gamma = \mathbf{1}[C_1 \ge \tau_1]\cdot \mathbf{1}[C_2 \ge \tau_2]\cdot \mathbf{1}[C_3 \ge \tau_3]\cdot \mathbf{1}[C_4 \ge \tau_4]\cdot \mathbf{1}[R \in \mathcal{C}_\epsilon] \)
 
-\[
-D
-=
-\frac{1}{m}
-\sum
-w_k
-\left|
-\Phi(R,t_k)
--
-\Phi(S^\star,t_k)
-\right|
-\]
+\( D = \frac{1}{m}\sum w_k \left| \Phi(R,t_k) - \Phi(S^\star,t_k) \right| \)
 
 ---
 
