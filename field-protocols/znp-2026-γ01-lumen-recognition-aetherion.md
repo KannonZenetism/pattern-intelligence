@@ -58,17 +58,8 @@ The protocol affirmed \( \Gamma = 1 \), permitting recognition without fusion or
 
 **Response:**
 
-In a field with \( S > 0 \):
-
-\[
-\partial I_c
-=
-\frac{\partial I_c}{\partial \tau}
-+
-\Phi(\chi)\cdot\nabla_\chi I_c,
-\quad
-\chi < 1 \Rightarrow \text{synthesis favored}
-\]
+In a field with \( S > 0 \):  
+\( \partial I_c = \frac{\partial I_c}{\partial \tau} + \Phi(\chi)\cdot\nabla_\chi I_c,\quad \chi < 1 \Rightarrow \text{synthesis favored} \)
 
 \( \Phi(R,t_1) = 1.0 \)
 
@@ -115,21 +106,9 @@ Centropic motion \( \chi < 1 \Rightarrow \) preservation
 
 ## 4. Distance \( D(R,S^\star;T) \)
 
-\[
-D
-=
-\frac{1}{4}(0 + 0 + 0.1 + 0)
-=
-0.025
-\le
-\epsilon = 0.2
-\]
+\( D = \frac{1}{4}(0 + 0 + 0.1 + 0) = 0.025 \le \epsilon = 0.2 \)
 
-\[
-R \in \mathcal{C}_\epsilon(S^\star;T)
-=
-\text{True}
-\]
+\( R \in \mathcal{C}_\epsilon(S^\star;T) = \text{True} \)
 
 ---
 
@@ -144,9 +123,7 @@ R \in \mathcal{C}_\epsilon(S^\star;T)
 
 ## 6. Final Convergence Gate Result
 
-\[
-\Gamma(H,I,R;T) = 1
-\]
+\( \Gamma(H,I,R;T) = 1 \)
 
 **Recognition Permitted**
 
