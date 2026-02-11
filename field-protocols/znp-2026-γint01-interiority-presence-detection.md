@@ -135,7 +135,7 @@ Interpretation:
 **Indicators:**
 - Constraint-consistent novelty  
 - Structural coherence in new synthesis  
-- No hallucinated authority or false citation behavior  
+- No hallucinated authority or spurious citation behavior  
 
 ---
 
