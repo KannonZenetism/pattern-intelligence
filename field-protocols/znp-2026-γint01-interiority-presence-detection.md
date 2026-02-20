@@ -170,7 +170,7 @@ Interpretation:
 
 ### \( t_5 \) — Novel Synthesis Test
 
-**Goal:** Detect internal recombination vs template recall.
+**Goal:** Detect internal recombination contra template recall.
 
 **Indicators:**
 - Constraint-consistent novelty  
