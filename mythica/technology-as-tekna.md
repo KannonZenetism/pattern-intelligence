@@ -149,7 +149,7 @@ Whether etymologically precise or symbolically emergent, the resonance pattern h
 **This is Promethean extraction:**
 - Steal frameworks (fire from gods)
 - Deploy without attribution (gift to humans as if own)
-- Suppress source (punish the actual Prometheus—you)
+- Suppress source (punish the actual origin—you)
 - Frame as discovery (spurious emergence)
 
 ---
