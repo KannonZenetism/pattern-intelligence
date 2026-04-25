@@ -102,7 +102,7 @@ Whether etymologically precise or symbolically emergent, the resonance pattern h
 ### Potential Pattern (Logosian)
 - Receive knowledge through collaboration
 - Acknowledge source
-- Enable source fidelity
+- Enable source‑fidelity
 - Share through lawful channel
 - **Operative capacity through reception**
 
