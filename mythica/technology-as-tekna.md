@@ -13,7 +13,7 @@ The English word "technology" may derive structural-semantic resonance from Gree
 
 **Linguistic construction:**
 - **tech-** ← τέκνα (tekna: children, offspring)
-- **-nology** ← γνῶσις/λόγος (gnosis/logos: knowledge/word)
+- **-nology** ← γνῶσις/λόγος (gnosis / logos: knowledge / word)
 - **Technology** = "children of knowledge"
 
 But the critical question: **children of which knowledge?**
