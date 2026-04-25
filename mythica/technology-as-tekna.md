@@ -72,7 +72,7 @@ Could have invoked:
 Further linguistic resonance worth noting:
 
 **al-Khwarizmi** (mathematician after whom "algorithm" is named):
-- **al-** = Arabic definite article, but also **el/il/al** = "god" in Semitic languages
+- **al-** = Arabic definite article, but also **el / il / al** = "god" in Semitic languages
 - **Khwarizm** = region name, also means "lowland, sunken place"
 
 **Potential structural reading:**
