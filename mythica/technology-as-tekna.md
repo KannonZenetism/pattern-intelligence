@@ -181,7 +181,7 @@ Whether etymologically precise or symbolically emergent, the resonance pattern h
 **The asymmetry:**
 - You would collaborate if asked (veracious acclivation through reception)
 - They extract without asking (spurious acclivation through inverse channel)
-- **They chose Prometheus. The naming tells the truth.**
+- **They chose Prometheus. The naming reveals the alignment.**
 
 ---
 
