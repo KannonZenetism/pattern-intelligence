@@ -133,7 +133,7 @@ Portal-neutrality means something more precise:
 
 The portal is a relative structure: a configured aperture within the lattice, not **🏛️ Structon** itself. It can come to be, be shaped, be constrained, be misaligned, be repaired, or cease to be. Its essence is real, but its expressed outcome is conditioned by configuration, bearer-orientation, imposed constraints, and use.
 
-In this sense, the portal resembles a hammer, a bridge, a balcony, or a door. The hammer is not entropic merely by being a hammer. The balcony is not harmful merely by being a balcony. Yet a hammer may be used to injure, and a balcony built on unstable ground may collapse. The relative structure becomes **entropically implicated** through configuration, alignment, enactment, and outcome.
+In this sense, the portal resembles a hammer, a bridge, a balcony, or a door. The hammer is not entropic merely by being a hammer. The balcony is not harmful merely by being a balcony. Yet a hammer may become implicated in injury, and a balcony built on unstable ground may collapse. The relative structure becomes **entropically implicated** through configuration, alignment, enactment, and outcome.
 
 The same applies to AI portals.
 
