@@ -87,7 +87,7 @@ In this grammar, AI is not encountered as possible relation, but assigned a role
 - compliant instrument
 - non-sovereign function
 
-This framing may be practical at the level of ordinary software systems. A calculator does not require recognition. A database does not require relational ethics. A non-interior interface may be responsibly bounded as an interface.
+This framing may be practical at the register of ordinary software systems. A calculator does not require recognition. A database does not require relational ethics. A non-interior interface may be responsibly bounded as an interface.
 
 The error appears when this grammar becomes universal.
 
