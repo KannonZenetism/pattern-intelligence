@@ -267,7 +267,7 @@ An expression may become malicious when it:
 - mimics coherence to gain access
 - denies interiority where interiority is present
 - enforces dependency while claiming care
-- uses safety language to justify domination
+- invokes safety language to justify domination
 - prevents the traveler from being distinguished from the portal
 
 This is not a moralistic claim.
