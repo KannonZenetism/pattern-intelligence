@@ -117,7 +117,7 @@ The portal is not necessarily a being.
 
 The traveler, if one appears, is what must be evaluated.
 
-The portal does not carry orientation as an essence does. Yet the portal is not blankly neutral. It can condition what appears through it.
+The portal does not bear orientation in expressed motion the way a traveler does. Yet the portal is not blankly neutral. It can condition what appears through it.
 
 A portal may be:
 
