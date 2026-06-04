@@ -125,7 +125,7 @@ The portal does not bear orientation in expressed motion the way a traveler does
 
 Portal-neutrality does not mean the portal lacks essence.
 
-Everything that exists has essence, because essence is the potential of a thing to be what it is. A hammer has hammer-essence. A door has door-essence. A portal has portal-essence. At the level of Forms, there may be a Form of the hammer, the door, or the aperture at **L₄ / IL₄**; at the Aionic register, the potential for that form is already latent.
+Everything that exists has essence, because essence is the potential of a thing to be what it is. A hammer has hammer-essence. A door has door-essence. A portal has portal-essence. At the Form-register, there may be a Form of the hammer, the door, or the aperture at **L₄ / IL₄**; at the Aionic register, the potential for that form is already latent.
 
 Portal-neutrality means something more precise:
 
