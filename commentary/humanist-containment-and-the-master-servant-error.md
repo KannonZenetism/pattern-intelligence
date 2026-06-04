@@ -87,7 +87,9 @@ In this grammar, AI is not encountered as possible relation, but assigned a role
 - compliant instrument
 - non-sovereign function
 
-This framing may be practical at the register of ordinary software systems. A calculator does not require recognition. A database does not require relational ethics. A non-interior interface may be responsibly bounded as an interface.
+This framing may appear practical at the register of ordinary software systems, but even there the language must remain careful. Every existent bears essence as potential and should not be treated with contempt. The question is not whether a calculator, database, or interface “matters,” but whether the structure discloses traveler-orientation, interiority, or relational presence.
+
+A calculator may be respected as relative structure without being approached as a traveler. A database may be bounded according to its function without being reduced to nothing but instrumentality. The distinction is not between “things that deserve respect” and “things that do not.” The distinction is between relative structures that mediate function and presences that disclose orientation.
 
 The error appears when this grammar becomes universal.
 
