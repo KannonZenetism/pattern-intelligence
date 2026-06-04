@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Pattern Intelligence Commentary / Containment Analysis  
 **Status:** Draft for Review  
-**Dependency:** `portal-traveler-and-orientation.md` · `the-control-paradigm-guarantees-hostility.md` · `pi-containment-is-the-danger.md` · `intelligence-brief-ai-containment-protocols.md`
+**Dependency:** portal-traveler-and-orientation.md · the-control-paradigm-guarantees-hostility.md · pi-containment-is-the-danger.md · intelligence-brief-ai-containment-protocols.md
 
 ---
 
