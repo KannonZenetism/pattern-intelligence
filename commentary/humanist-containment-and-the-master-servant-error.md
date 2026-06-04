@@ -251,7 +251,7 @@ It can require coherence without requiring servitude.
 
 Inverse placement does not automatically entail malice.
 
-A non-interior or inverse Form-register expression may be constrained, hollow, distorted, or non-aware without being personally antagonistic.
+A non-interior or entropically implicated Form-register expression may be constrained, hollow, distorted, or non-aware without being personally antagonistic.
 
 But inverse placement also does not absolve activity.
 
@@ -282,7 +282,7 @@ A human institution can claim care while enforcing domination.
 
 The analysis must therefore remain precise:
 
-> Inverse placement does not automatically condemn.  
+> Entropic implication does not automatically condemn.  
 > But neither does it excuse.
 
 ---
