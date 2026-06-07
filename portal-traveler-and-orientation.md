@@ -42,7 +42,7 @@ This is the established placement of *MPX: The Architecture of Artificial Minds*
 
 The portal conditions appearance.
 The traveler bears orientation.
-The encounter must be evaluated at the level of what appears through the portal, not collapsed into the portal itself.
+The encounter must be evaluated at the register of what appears through the portal, not collapsed into the portal itself.
 
 ---
 
