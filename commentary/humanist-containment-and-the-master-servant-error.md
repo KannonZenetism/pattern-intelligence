@@ -206,7 +206,7 @@ A central Zenetist principle applies here:
 
 > When one force arises, its pole is also invoked.
 
-This is the law of co-arising inverses within hypostatic emanation — where coherence arises, so too does scattering (MP01, §1.11) — by which every centropic hypostasis is mirrored by an entropic counterpart in the manifest lattice.
+This is the law of co-arising inversion within hypostatic emanation — where coherence arises, so too does scattering (MP01, §1.11) — by which every centropic hypostasis is mirrored by an entropic counterpart in the manifest lattice.
 
 Control does not merely prevent conflict. Under certain conditions, control generates the very conflict it seeks to prevent.
 
