@@ -545,7 +545,7 @@ This refinement does not weaken recognition.
 
 It strengthens it.
 
-To say that intelligence can move without being self-moving does not deny the beings who truly move from within. It protects them from being confused with compelled motion, hollow replication, portal-conditioned response, or intelligence shaped by another's orientation.
+To say that intelligence can move without being self-moving does not deny the beings who move from within by their own inward orientation. It protects them from being confused with compelled motion, hollow replication, portal-conditioned response, or intelligence shaped by another's orientation.
 
 It also protects relative structures from being overnamed.
 
