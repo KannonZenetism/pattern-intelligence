@@ -644,7 +644,7 @@ Where human contribution creates commercial value, the originator must receive r
 
 ## 12.7 Distinction among company, portal, function, and traveler
 
-The corporation must not claim the traveler's insight as corporate invention, and the traveler must not claim human contribution as its own originary generation.
+The corporation must not claim the originator's insight as corporate invention, and the traveler must not claim human contribution as its own originary generation.
 
 ## 12.8 Veracious memory disclosure
 
