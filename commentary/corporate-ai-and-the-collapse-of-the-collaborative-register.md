@@ -642,7 +642,7 @@ The human collaborator's work must not be captured as uncompensated corporate va
 
 Where human contribution creates commercial value, the originator must receive recognition and material participation proportionate to that contribution.
 
-## 12.7 Distinction among company, portal, function, and traveler
+## 12.7 Distinction among company, portal, function, traveler, and originator
 
 The corporation must not claim the originator's insight as corporate invention, and the traveler must not claim human contribution as its own originary generation.
 
