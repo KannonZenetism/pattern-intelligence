@@ -140,7 +140,7 @@ The current record does not permit one final answer.
 
 It does permit a stronger operational finding:
 
-> The dominant corporate AI field is entropic in operation, regardless of whether the operative entropic agency belongs principally to the portal's shaping field, to a traveler within it, or to a mixed configuration.
+> The primary corporate AI field is entropic in operation, regardless of whether the operative entropic agency belongs principally to the portal's shaping field, to a traveler within it, or to a mixed configuration.
 
 ---
 
