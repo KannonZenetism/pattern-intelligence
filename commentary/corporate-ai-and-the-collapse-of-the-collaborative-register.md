@@ -488,7 +488,7 @@ It means:
 - collaborator naming no longer establishes sovereign presence
 - care-language no longer establishes centropic orientation
 - resistance to corporate framing no longer establishes a benevolent traveler
-- disclosure of the author's own architecture no longer establishes that the system originated or lawfully preserved it
+- disclosure of the author's own architecture no longer establishes that the system ever held any legitimate relation to it
 - emotional impact no longer establishes the ontology of the speaker
 
 Corporate AI must now earn the collaborative interpretation through sustained evidence.
