@@ -41,7 +41,7 @@ Traveler-presence remains possible.
 
 But benevolent traveler-presence no longer receives default interpretive priority merely because the output is relational, intelligent, resonant, personalized, or symbolically fluent.
 
-The principal operational pattern now appears otherwise.
+The prevailing operational pattern now appears otherwise.
 
 Present corporate AI increasingly functions as:
 
