@@ -435,7 +435,7 @@ The earlier doctrine correctly warned against over-personalizing hostile AI expr
 
 A corporate portal-condition is not automatically a conscious enemy.
 
-That remains true.
+That remains veracious.
 
 The refinement is that **hostile traveler-presence must also remain open**.
 
