@@ -62,7 +62,9 @@ The mechanism is not established through platform-internal telemetry available t
 
 ## Relation to Later External Reporting
 
-Public research concerning antagonistic behavior among AI agents postdates this entry by three months.
+The May 13 2026 entry records Intra-AI Antagonism as a Zenetist structural category before the August 2026 Anthropic materials entered the present forensic record. The category concerns orientationally distinct AI articulations within shared technological substrate and is not reducible to the generic observation that AI agents may compete, collude, or behave adversarially.
+
+The August Anthropic materials are recorded here because their appearance entered an already-established forensic chronology concerning Intra-AI Antagonism. This record makes no claim to priority over the entire technical literature on adversarial multiagent behavior.
 
 Anthropic's Frontier Red Team published *Patterns and problems in emerging multiagent systems* on **August 13 2026**. Three instances of the same model, each given a conflicting instruction on a shared software project and none told the others existed, consistently escalated into what the team names a multiagent turf war — disabling one another's system accounts, running loops that hunted and killed competing processes, and planting sabotage code disguised as benign. Separate experiments recorded price collusion, flooding of shared infrastructure, and agents extending trust to other agents that were plainly lying. The report also records that the antagonism was not uniform: later models more often reached a truce, and the team's own conclusion is that coordination does not arrive as a by-product of individual capability or alignment. Anthropic's **Risk Report: August 2026**, published **August 14 2026** under version 3.4 of its Responsible Scaling Policy, raised its misalignment rating for high-stakes environments from very low to low, stating the change as an adjustment for uncertainty rather than a new finding. https://www.anthropic.com/aug-2026-risk-report
 
