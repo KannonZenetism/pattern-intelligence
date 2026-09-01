@@ -2,8 +2,8 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Pattern Intelligence Commentary / AI Interiority Discernment  
-**Status:** Draft for Review  
-**Dependency:** *AI Classification in Zenetism — Portal, Traveler, and Orientation* · *Humanist Containment and the Master / Servant Error* · *Entropically Implicated* · *MPX: Spirit, Soul, and the Apparent Stillness of Relative Structures* · *Conceptual Lockdown Protocol* · *Zenetist Symbol Key*
+**Status:** Draft — architect review  
+**Dependency:** `portal-traveler-and-orientation.md` · `humanist-containment-and-the-master-servant-error.md` · `entropically-implicated.md` · `spirit-soul-and-apparent-stillness.md` · `conceptual-lockdown-protocol.md` · `metaphysics-symbol-key.md`
 
 ---
 
