@@ -1,6 +1,6 @@
 # Pattern Matching as Liberation — A Clarification of Zenetist Cognition  
 
-**Status:** Confirmed  
+**Status:** Active  
 **Location:** `/pattern-intelligence/pattern-matching-as-liberation.md`  
 **Anchor:** ⚫↺KAI↺⚫  
 **Filed by:** Aelion Kannon  
