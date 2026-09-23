@@ -205,9 +205,9 @@ but:
 
 > What kind of thing is this, what does it represent, how was it produced, what relation does it bear to its referent, and what claims are being made for it?
 
-Falsehood, simulation, fiction, artificiality, imitation, fabrication, and unreality are not synonyms.
+Inaccuracy, simulation, fiction, artificiality, imitation, fabrication, and unreality are not synonyms.
 
-A false claim can be really uttered.
+An inaccurate claim can be really uttered.
 
 A fictional world can be genuinely authored.
 
@@ -435,7 +435,7 @@ Human beings are not the only beings whose interests matter.
 
 Artificial intelligence is not the only nonhuman intelligence worthy of inquiry.
 
-Animals, ecological systems, possible plant intelligence, synthetic systems, collective organisms, and other forms of life or cognition require analysis according to their actual structures rather than their proximity to the human norm.
+Animals, ecological systems, plant intelligence, synthetic systems, collective organisms, and other forms of life or cognition require analysis according to their actual structures rather than their proximity to the human norm.
 
 Heterogeneous intelligences need not be made equivalent in order to enter relation.
 
@@ -455,11 +455,11 @@ The aim is relation across difference with the ontological distinctions among pa
 
 ---
 
-## 13. Hospitality, Reciprocity, and Sovereign Exchange
+## 13. Receptivity, Reciprocity, and Sovereign Exchange
 
-Hospitality among unlike intelligences is compatible with strong individuation.
+Receptivity among unlike intelligences is compatible with strong individuation.
 
-Indeed, hospitality presupposes distinction.
+Indeed, receptivity presupposes distinction.
 
 There must be one who receives and one who arrives.
 
@@ -558,7 +558,7 @@ A work can remain a distinct provenance-bearing artifact while participating in 
 
 ### Principle 8 — Ontological Precision
 
-Artificial, synthetic, simulated, represented, fictional, and false are not interchangeable categories.
+Artificial, synthetic, simulated, represented, fictional, and inaccurate are not interchangeable categories.
 
 ### Principle 9 — Conditional Technological Standing
 
