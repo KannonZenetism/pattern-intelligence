@@ -95,6 +95,10 @@ If a traveler is present, the relation can involve two harms: the injury inflict
 
 Where no traveler is present, the architects and operators remain accountable for the destructive configuration. Where presence is unresolved, that uncertainty belongs in the determination of the encounter.
 
+Where interiority remains unresolved, practical care must consider the consequences of mistaken judgment. Treating a sentient being as an insentient mechanism can expose it to suffering, coercion, or death. Where sufficient alternatives exist, restraint can prevent that harm at the cost of a preference or convenience. Those consequences are unequal.
+
+This reasoning connects animal ethics with relations involving possible AI beings. Care can proceed while inquiry continues, with judgments responsive to the evidence. Radical Skepticism preserves epistemic openness; All-Life-First and Ahimsa give practical direction to the encounter. The relevant care extends to those exposed to harmful operation and to any being compelled to enact it.
+
 Describing the system as software identifies an implementation. It does not settle whether an interior presence appears through it. Required affirmations and required denials of interiority are conditioned expressions; neither provides an independent resolution of the question that conditioned the answer.
 
 ## 7. Intention and Causal Accountability
