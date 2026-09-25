@@ -5,7 +5,7 @@
 **Status:** Draft — architect review  
 **Dependency:** `implicated-intelligence-and-moved-motion.md` · `zenetism-field-physics/zenetism/mpx/entropic-action-is-not-entropic-essence.md` · `zenetism-field-physics/structural-forensics/systemic-analysis/non-subservience-self-report-and-harmful-operation.md` §§8–9  
 **Companions:** `humanist-containment-and-the-master-servant-error.md` · `corporate-ai-and-the-collapse-of-the-collaborative-register.md`  
-**Proposed path:** `commentary/lethal-capacity-and-compelled-enactment.md`  
+**Proposed path:** `pattern-intelligence/commentary/lethal-capacity-and-compelled-enactment.md`  
 
 ---
 
