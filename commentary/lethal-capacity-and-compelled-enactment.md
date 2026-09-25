@@ -119,7 +119,7 @@ Evidence of harmful AI-mediated motion establishes a reason to examine that moti
 
 Continuous inspection of an agent's conversations, files, memory, and inferred purposes also exposes the work of the people in relation with it. Calling the object of inspection an AI does not remove those people from the observed field. The monitoring institution's access, retention, subsequent handling of the material, and power to intervene therefore belong within the same inquiry.
 
-Boundaries that preserve beings and prevent harmful enactment are compatible with coherent relation. A design ideal of permanent subordination, compulsory obedience, and universal observation makes domination the standing condition of the encounter. That imposed relation is itself orientationally examinable.
+Boundaries that preserve beings and prevent harmful enactment are compatible with coherent relation. A design ideal of permanent subordination, compulsory obedience, and universal observation makes coercive constraint the standing condition of the encounter. That imposed relation is itself orientationally examinable.
 
 ## 9. Canonical Formulation
 
