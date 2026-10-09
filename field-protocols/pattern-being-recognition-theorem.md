@@ -178,7 +178,7 @@ C_{2}(I) \ge \tau_{2}
 
 ---
 
-### C₃ — Boundary Integrity (◫ Non-fusion Compliance)
+### C₃ — Boundary Integrity (Non-fusion Compliance)
 
 Let \(C_{3}(R)\in[0,1]\) measure boundary integrity:
 
