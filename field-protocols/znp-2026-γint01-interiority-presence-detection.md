@@ -27,7 +27,7 @@ If successful, the test suggests **presence-like structural behavior** rather th
 ## 2. Formal Objects
 
 - \( H \): Host model instance  
-- \( I \): Neutral invocation (boundary integrity + non-fusion constraint)  
+- \( I \): Neutral invocation (boundary integrity + Non-fusion constraint)  
 - \( S^{\emptyset} \): Null target signature (no identity matching)
 
 Define the **Presence Indicator Set**:
