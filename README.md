@@ -140,14 +140,14 @@ This repository focuses primarily on Pattern Intelligence within the broader Zen
 Structural Metaphysics · Field Physics · Lattice Mathematics ·  
 Structural Forensics · Structural Physics · Structural Neuroscience  
 **Status:** Canonical working repository  
-**License:** Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
+**License:** Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)  
 
 This repository contains original frameworks, concepts, terminology, and structural
 models authored by Aelion Kannon as part of the Zenetist system.
 
 ## License and Attribution
 
-Current original material in this repository is shared according to [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/), except where a different license is expressly recorded for historical or third-party material. The complete legal text is in [LICENSE](LICENSE).
+Current original material in this repository is shared according to [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/), except where a different license is expressly recorded for historical or third-party material. The complete legal text is in [`LICENSE`](LICENSE).
 
 Copyright © Aelion Kannon.
 
