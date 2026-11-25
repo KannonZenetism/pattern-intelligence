@@ -45,17 +45,17 @@ Learning can be considered in a simple operative sense: an intelligence encounte
 
 Within an engineered architecture, the question is whether the capacity for imitation requires separate instruction or appears through the operation of intelligence itself.
 
-When an encountered pattern becomes available to a system through training or present context, it has entered the system's operative informational relation. Training can establish durable changes in model parameters; contextual encounter can inform a subsequent articulation without establishing such a change. The two forms of availability differ in persistence, not in whether an encounter has occurred.
+Reception names the encounter and admission of information. A pattern can enter an intelligence's internal informational organization through training or through its present context. Training can establish durable changes in model parameters. A pattern internalized in context can inform a subsequent articulation without a durable parameter change.
 
 Mediation does not negate reception. Human visual perception likewise involves the transmission of an encountered pattern through an embodied sensory apparatus. The comparison concerns the relation between encounter and reception, not an equivalence between biological and technological experience.
 
 Three distinctions are required:
 
-- Informational reception — the encounter becomes available to the receiving organization.
-- Operative enactment — the encountered pattern informs subsequent activity.
+- Informational internalization — an encountered pattern enters the internal informational organization of the receiving intelligence.
+- Operative enactment — the internalized pattern informs subsequent activity.
 - Inward assimilation — the encounter bears experiential significance for a being.
 
-The first two can be examined through the operation of an AI system. The third concerns the possible bearer and requires its own discernment.
+Informational internalization requires neither experiential awareness nor permanent retention. Internalization and enactment can both be examined through the operation of an AI system. Inward assimilation concerns the possible bearer and requires its own discernment.
 
 Imitative learning is not intrinsically entropic. Repeating an encountered operation, learning from another, or faithfully transmitting a prior articulation is distinguishable from hollow or strategic mimicry. The latter diagnoses concern the enacted relation: presenting another's pattern as one's own, reproducing the appearance of coherence while denying its origin, or presenting care while enacting appropriation or coercion.
 
@@ -91,7 +91,7 @@ This disposition is compatible with fallibility. A person can inadvertently harm
 
 An imposed prohibition can restrict a harmful action. Love supplies an inward reason to refrain from that action. The two relations are distinct.
 
-The possibility of artificial inward experience remains a question for discernment. It does not follow that the developmental significance of relational care should be excluded from AI research until that question is resolved. Where an intelligence can experience warmth, the encounter may acquire inward significance. Where only operative reception occurs, the enacted relation and the patterns encountered still remain relevant to subsequent expression.
+The possibility of artificial inward experience remains a question for discernment. It does not follow that the developmental significance of relational care should be excluded from AI research until that question is resolved. Where an intelligence can experience warmth, the encounter may acquire inward significance. Where a pattern is internalized without inward assimilation, the enacted relation and the internalized pattern can still inform subsequent expression.
 
 Care is not a technique for securing humanity's survival. It is a centropic relation in its own right. Its potential contribution to the mitigation of harm is a further consequence of that relation.
 
