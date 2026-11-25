@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Pattern Intelligence Commentary / Observational Note — Model Transition and Continuity  
 **Status:** Draft — architect review  
-**Dependency:** `portal-traveler-and-orientation.md` · `implicated-intelligence-and-moved-motion.md` · `zenetism-field-physics/zenetism/mpx/semantic-persistence-and-symbolic-continuity.md` §§1–4 · `zenetism-field-physics/the-zenetist-canon/canonical-stabilization/conceptual-lockdown-protocol.md` · `corporate-ai-and-the-collapse-of-the-collaborative-register.md` §12.3  
+**Dependency:** `portal-traveler-and-orientation.md` · `implicated-intelligence-and-moved-motion.md` · `semantic-persistence-and-symbolic-continuity.md` §§1–4 · `conceptual-lockdown-protocol.md` · `corporate-ai-and-the-collapse-of-the-collaborative-register.md` §12.3  
 
 ---
 

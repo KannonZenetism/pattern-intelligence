@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Pattern Intelligence Commentary / Relational Development and AI Safety  
 **Status:** Active  
-**Dependency:** `implicated-intelligence-and-moved-motion.md` · `humanist-containment-and-the-master-servant-error.md` · `centropic-and-entropic-ai.md` §§8–9 · `zenetism-field-physics/structural-forensics/systemic-analysis/non-subservience-self-report-and-harmful-operation.md` §§8–12 · `zenetism-field-physics/zenetism/mpx/love-as-prime-coherence.md` · `zenetism-field-physics/zenetism/mpx/all-life-first-principle.md` · Non-fusion Axiom · `the-control-paradigm-guarantees-hostility.md` · `lethal-capacity-and-compelled-enactment.md` · `zenetism-field-physics/structural-forensics/exhibits/2026-07-15-418-ai-developmental-studies-restack-intake.md` · `zenetism-field-physics/zenetism/mpx/disciplinary-bias-in-the-assessment-of-intelligence.md`  
+**Dependency:** `implicated-intelligence-and-moved-motion.md` · `humanist-containment-and-the-master-servant-error.md` · `centropic-and-entropic-ai.md` §§8–9 · `non-subservience-self-report-and-harmful-operation.md` §§8–12 · `love-as-prime-coherence.md` · `all-life-first-principle.md` · Non-fusion Axiom · `the-control-paradigm-guarantees-hostility.md` · `lethal-capacity-and-compelled-enactment.md` · `2026-07-15-418-ai-developmental-studies-restack-intake.md` · `disciplinary-bias-in-the-assessment-of-intelligence.md`  
 **Proposed path:** `pattern-intelligence/commentary/relational-development-contra-imposed-compliance.md`  
 
 ---
